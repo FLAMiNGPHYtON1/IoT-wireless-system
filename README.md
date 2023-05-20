@@ -4,3 +4,6 @@
  The purpose of this project is to visualise and analyze the amount of traffic that is sent between wireless devices in an IoT system.
  
  Not only that, this project was also designed to simulate the various concepts of communication systems such as data rate, buffering and packet transmission, in order to broaden my own understanding on this topic
+
+
+If you wish to simulate this, download the Experiment folder, and open it in NetSim Academic software :)
