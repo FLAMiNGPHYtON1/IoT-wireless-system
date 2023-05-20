@@ -1,0 +1,50 @@
+Device 8, Interface 2 is now UP
+
+Device 9, Interface 1 is now UP
+
+Interface state changed to P2P from DOWN
+Interface state changed to P2P from DOWN
+Device 8, Interface 2 is now UP
+
+Device 9, Interface 1 is now UP
+
+Neighbor(11.2.1.1) state changed to DOWN from DOWN
+Setting OSPF_HelloReceived event and calling.
+Time 0.0101, Router 9, interface 1 (11.2.1.2) HelloReceived event triggered for neighbor 11.2.1.1
+Neighbor(11.2.1.1) state changed to Init from DOWN
+Adding Inactivity timer at time 40000.0101
+
+
+Setting OSPF_1Way event and calling.
+Time 0.0101, Router 9, Interface 1 (11.2.1.2) 1-way event is triggered for neighbor 11.2.1.1
+
+
+Neighbor(11.2.1.2) state changed to DOWN from DOWN
+Setting OSPF_HelloReceived event and calling.
+Time 0.0101, Router 8, interface 2 (11.2.1.1) HelloReceived event triggered for neighbor 11.2.1.2
+Neighbor(11.2.1.2) state changed to Init from DOWN
+Adding Inactivity timer at time 40000.0101
+
+
+Setting OSPF_1Way event and calling.
+Time 0.0101, Router 8, Interface 2 (11.2.1.1) 1-way event is triggered for neighbor 11.2.1.2
+
+
+Router 8, Increment Age event is triggered at time 1000.000
+Router 9, Increment Age event is triggered at time 1000.000
+Router 8, Increment Age event is triggered at time 2000.000
+Router 9, Increment Age event is triggered at time 2000.000
+Router 8, Increment Age event is triggered at time 3000.000
+Router 9, Increment Age event is triggered at time 3000.000
+Router 8, Increment Age event is triggered at time 4000.000
+Router 9, Increment Age event is triggered at time 4000.000
+Router 8, Increment Age event is triggered at time 5000.000
+Router 9, Increment Age event is triggered at time 5000.000
+Router 8, Increment Age event is triggered at time 6000.000
+Router 9, Increment Age event is triggered at time 6000.000
+Router 8, Increment Age event is triggered at time 7000.000
+Router 9, Increment Age event is triggered at time 7000.000
+Router 8, Increment Age event is triggered at time 8000.000
+Router 9, Increment Age event is triggered at time 8000.000
+Router 8, Increment Age event is triggered at time 9000.000
+Router 9, Increment Age event is triggered at time 9000.000

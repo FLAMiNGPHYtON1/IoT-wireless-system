@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<NETSIM_ANIMATION>
+ <!--NETSIM_ANIMATION-->
+ <MENU NAME="Link Throughput" isNewScreen="false">
+  <MENU NAME="Link_1_Throughput (Bi-directional Aggregated)" isNewScreen="true" FileName="C:\Users\aliza\AppData\Local\Temp\NetSim/acad12.2.26_x64/\plot_Link_1_Throughput (Bi-directional Aggregated).txt" Type="2dplot"/>
+  <MENU NAME="Link_2_Throughput (Bi-directional Aggregated)" isNewScreen="true" FileName="C:\Users\aliza\AppData\Local\Temp\NetSim/acad12.2.26_x64/\plot_Link_2_Throughput (Bi-directional Aggregated).txt" Type="2dplot"/>
+  <MENU NAME="Link_3_Throughput (Bi-directional Aggregated)" isNewScreen="true" FileName="C:\Users\aliza\AppData\Local\Temp\NetSim/acad12.2.26_x64/\plot_Link_3_Throughput (Bi-directional Aggregated).txt" Type="2dplot"/>
+ </MENU>
+ <MENU NAME="IP Table" isNewScreen="false">
+  <MENU NAME="TEMPERATURE SENSOR" isNewScreen="true" FileName="Animation_TEMPERATURE_SENSOR.txt" Type="table"/>
+  <MENU NAME="VIBRATION SENSOR 1" isNewScreen="true" FileName="Animation_VIBRATION_SENSOR_1.txt" Type="table"/>
+  <MENU NAME="VIBRATION SENSOR 2" isNewScreen="true" FileName="Animation_VIBRATION_SENSOR_2.txt" Type="table"/>
+  <MENU NAME="PRESSURE SENSOR 1" isNewScreen="true" FileName="Animation_PRESSURE_SENSOR_1.txt" Type="table"/>
+  <MENU NAME="PRESSURE SENSOR 2" isNewScreen="true" FileName="Animation_PRESSURE_SENSOR_2.txt" Type="table"/>
+  <MENU NAME="CHEMICAL SENSOR" isNewScreen="true" FileName="Animation_CHEMICAL_SENSOR.txt" Type="table"/>
+  <MENU NAME="IMAGE SENSOR" isNewScreen="true" FileName="Animation_IMAGE_SENSOR.txt" Type="table"/>
+  <MENU NAME="6_LOWPAN_GATEWAY" isNewScreen="true" FileName="Animation_6_LOWPAN_GATEWAY.txt" Type="table"/>
+  <MENU NAME="ROUTER" isNewScreen="true" FileName="Animation_ROUTER.txt" Type="table"/>
+  <MENU NAME="WIRED_NODE" isNewScreen="true" FileName="Animation_WIRED_NODE.txt" Type="table"/>
+ </MENU>
+ <MENU NAME="Battery Power" isNewScreen="false">
+  <MENU NAME="TEMPERATURE SENSOR_BatteryPower" isNewScreen="false" FileName="Animation_TEMPERATURE_SENSOR_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="VIBRATION SENSOR 1_BatteryPower" isNewScreen="false" FileName="Animation_VIBRATION_SENSOR_1_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="VIBRATION SENSOR 2_BatteryPower" isNewScreen="false" FileName="Animation_VIBRATION_SENSOR_2_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="PRESSURE SENSOR 1_BatteryPower" isNewScreen="false" FileName="Animation_PRESSURE_SENSOR_1_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="PRESSURE SENSOR 2_BatteryPower" isNewScreen="false" FileName="Animation_PRESSURE_SENSOR_2_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="CHEMICAL SENSOR_BatteryPower" isNewScreen="false" FileName="Animation_CHEMICAL_SENSOR_BatteryPower.txt" Type="battery"/>
+  <MENU NAME="IMAGE SENSOR_BatteryPower" isNewScreen="false" FileName="Animation_IMAGE_SENSOR_BatteryPower.txt" Type="battery"/>
+ </MENU>
+ <MENU NAME="Node Movement" isNewScreen="false" FileName="Animation_Node_Movement.txt" Type="generic"/>
+ <MENU NAME="Application Throughput" isNewScreen="false">
+  <MENU NAME="App1_SENSOR_APP_Throughput" isNewScreen="true" FileName="C:\Users\aliza\AppData\Local\Temp\NetSim/acad12.2.26_x64/\plot_App1_SENSOR_APP_Throughput.txt" Type="2dplot"/>
+ </MENU>
+ <MENU NAME="Transmit_packet" isNewScreen="false" FileName="Animation_Transmit_packet.txt" Type="generic"/>
+</NETSIM_ANIMATION>
